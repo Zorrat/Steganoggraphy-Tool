@@ -8,7 +8,7 @@ To run the project create a anaconda enviornment with the following command
 ```
 conda create --name Steganography_Tool --file requirements.txt
 ```
-
+Then run the following command in the project directory
 ```
 streamlit run main.py
 ```
